@@ -1,0 +1,11 @@
+E:\C#project\门禁管理系统\门禁管理系统\bin\Debug\门禁管理系统.exe.config
+E:\C#project\门禁管理系统\门禁管理系统\bin\Debug\门禁管理系统.exe
+E:\C#project\门禁管理系统\门禁管理系统\bin\Debug\门禁管理系统.pdb
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.csprojResolveAssemblyReference.cache
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.Form_login.resources
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.Properties.Resources.resources
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.csproj.GenerateResource.Cache
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.exe
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.pdb
+E:\C#project\门禁管理系统\门禁管理系统\obj\Debug\门禁管理系统.MainForm.resources
+E:\C#project\门禁管理系统\门禁管理系统\bin\Debug\AccessControlManagementSystem.exe.config
